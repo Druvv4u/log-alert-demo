@@ -25,3 +25,4 @@ curl http://localhost:8080/crash
 ## Next steps for Prodcution setup
 Replace custom watcher with Filebeat -> Elasticsearch -> Kibana alerting
 for centralized logging across many services.
+# log-alert-demo
